@@ -1,4 +1,4 @@
-# cod6940b2a0dbe4cc8ee23186
+# My scoreboard project
 
 Quick start:
 
